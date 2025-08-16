@@ -1,8 +1,8 @@
-# CSGO Better Bots
+[![Discord](https://img.shields.io/discord/1296858234853789826?style=for-the-badge&label=Join%20the%20Discord%20Server&logo=discord&logoColor=white)](https://discord.gg/ZaEwHfDD5N)
 
-[![Discord](https://img.shields.io/discord/1296858234853789826?style=for-the-badge&label=Join%20the%20Discord%20Server&link=https%3A%2F%2Fdiscord.gg%2FZaEwHfDD5N)](https://discord.gg/ZaEwHfDD5N)
+[![Static Badge](https://img.shields.io/badge/download-latest-salmon?style=for-the-badge&logo=mingww64)](https://playliga.gg/#/#download)
 
-## Dependencies
+# Dependencies
 
 > [!IMPORTANT]
 > This plugin has to be compiled with SourceMod and Metamod:Source versions `1.10.x` due to incompatibilities with the Transitional Syntax introduced in later versions of SourceMod (`1.11.x`).
@@ -15,7 +15,7 @@
 - [modelch](https://github.com/SAZONISCHE/modelch)
 - [SourceScramble](https://github.com/nosoop/SMExt-SourceScramble/releases)
 
-## Customizations
+# Customizations
 
 The following customizations were made to this plugin to be better compatible with LIGA Esports Manager.
 
