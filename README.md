@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/view_the-roadmap-blue?style=for-the-badge&logo=rocket&logoColor=white" />
     </a>
   </p>
-  <p>The world's first Esports simulator for Counter-Strike where you can play your matches in-game or simulate them, you choose!</p>
+  <p>A stripped down version of CSGOBetterBots SourceMod Plugin.</p>
 </div>
 
 # Dependencies
